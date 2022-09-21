@@ -30,7 +30,7 @@ as well as the current legislative policies and case-law on the topic.
 
 ### Shedule and course materials
 
-**Risk Assessment:**  *Friday 17:00 - 19:00*                            
+#### Risk Assessment:  *Friday 17:00 - 19:00*                            
 
 |       [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
 |       [PSA Scoring Manual: 2022 Edition][PSA]                           
@@ -42,12 +42,12 @@ as well as the current legislative policies and case-law on the topic.
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
 
 
-**Multiagent Systems:** *Saturday 10:00 - 12:00* 
+#### Multiagent Systems: *Saturday 10:00 - 12:00* 
 
 |       Bla 
 |       Bla
 
-**Bayesian Nets:** *Saturday 14:00 - 16:00*                                   
+#### Bayesian Nets: *Saturday 14:00 - 16:00*                                   
 
 |       [Legal Probabilism][LP]                                           
 |        Bla bla
