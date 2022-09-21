@@ -16,5 +16,27 @@ as well as the current legislative policies and case-law on the topic.
 
 # Shedule and readings
 
+| **Part 1: Risk Assemennt**                                        |
+|-------------------------------------------------------------------|
+| [Loomis v. Wisconsin: Brief amicus curiae][LW]                    | 
+| [PSA Scoring Manual: 2022 Edition][PSA]                           | 
+| [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]               | 
+| Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 |
 
+
+[LW]: https://www.scotusblog.com/wp-content/uploads/2017/05/16-6387-CVSG-Loomis-AC-Pet.pdf
+[PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
+[COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
+
+
+
+
+
+| **Part 3: Bayesian Nets**                                          |
+|-------------------------------------------------------------------|
+| [Legal Probabilism][LP]                                           |
+| bla bla
+
+
+[LP]: https://plato.stanford.edu/entries/legal-probabilism/
 
