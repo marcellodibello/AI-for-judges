@@ -1,23 +1,10 @@
 markdown: kramdown
 
-
 # Name of website
-title: AI for Judges two
+title: AI for Judges 
 
 # Author
-author: Marcello Di Bello and Giulia Lasagni
-
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+author: Marcello Di Bello
 
 # theme: jekyll-theme-modernist
 #remote_theme: pages-themes/dinky@v0.2.0
