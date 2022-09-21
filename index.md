@@ -1,11 +1,7 @@
-## Instructors
+**Table of contents** 
+* TOC
+{:toc}
 
-[Giulia Lasagni][GL] - University of Blogna - giulia DOT lasagni6 AT unibo DOT it
-
-[Marcello Di Bello][MDB] - Arizona State University - mdibello AT asu DOT com
-
-[GL]: https://www.unibo.it/sitoweb/giulia.lasagni6/en
-[MDB]: www.marcellodibello.com
 
 ## Course overview
 
@@ -23,6 +19,14 @@ Transversal to these topics, the module will also examine the different ways in 
 can rely on findings about matters of fact that are entirely or partially based on automated elements, 
 as well as the current legislative policies and case-law on the topic.
 
+## Instructors
+
+[Giulia Lasagni][GL] - University of Blogna - giulia DOT lasagni6 AT unibo DOT it
+
+[Marcello Di Bello][MDB] - Arizona State University - mdibello AT asu DOT com
+
+[GL]: https://www.unibo.it/sitoweb/giulia.lasagni6/en
+[MDB]: www.marcellodibello.com
 
 ## Shedule and course materials
 
