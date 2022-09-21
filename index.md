@@ -21,9 +21,9 @@ as well as the current legislative policies and case-law on the topic.
 
 ## Instructors
 
-[Giulia Lasagni][GL] - University of Blogna - giulia DOT lasagni6 AT unibo DOT it
+[Giulia Lasagni][GL] - University of Blogna - *email*: giulia DOT lasagni6 AT unibo DOT it
 
-[Marcello Di Bello][MDB] - Arizona State University - mdibello AT asu DOT com
+[Marcello Di Bello][MDB] - Arizona State University - *email*: mdibello AT asu DOT com
 
 [GL]: https://www.unibo.it/sitoweb/giulia.lasagni6/en
 [MDB]: www.marcellodibello.com
