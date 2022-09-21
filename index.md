@@ -3,7 +3,7 @@
 {:toc}
 
 
-## Course overview
+### Course overview
 
 This module examines how tools from AI can help judges make decisions.  Judges make decisions at several junctures of 
 the justice system, pre- and post-trial. Their decisions concern matters of fact as well as matters of law. 
@@ -19,7 +19,7 @@ Transversal to these topics, the module will also examine the different ways in 
 can rely on findings about matters of fact that are entirely or partially based on automated elements, 
 as well as the current legislative policies and case-law on the topic.
 
-## Instructors
+### Instructors
 
 [Giulia Lasagni][GL] - University of Blogna - *email*: giulia DOT lasagni6 AT unibo DOT it
 
@@ -28,7 +28,7 @@ as well as the current legislative policies and case-law on the topic.
 [GL]: https://www.unibo.it/sitoweb/giulia.lasagni6/en
 [MDB]: www.marcellodibello.com
 
-## Shedule and course materials
+### Shedule and course materials
 
 **Risk Assessment:**  *Friday 17:00 - 19:00*                            
 
