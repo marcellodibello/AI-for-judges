@@ -7,7 +7,7 @@
 [GL]: https://www.unibo.it/sitoweb/giulia.lasagni6/en
 [MDB]: www.marcellodibello.com
 
-# Overview
+## Course overview
 
 This module examines how tools from AI can help judges make decisions.  Judges make decisions at several junctures of 
 the justice system, pre- and post-trial. Their decisions concern matters of fact as well as matters of law. 
@@ -24,7 +24,7 @@ can rely on findings about matters of fact that are entirely or partially based 
 as well as the current legislative policies and case-law on the topic.
 
 
-# Shedule and course materials
+## Shedule and course materials
 
 **Risk Assessment:**  *Friday 17:00 - 19:00*                            
 
@@ -43,14 +43,14 @@ as well as the current legislative policies and case-law on the topic.
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
 
 
-## Multiagent Systems: Saturday 10:00 - 12:00 
+**Multiagent Systems:** *Saturday 10:00 - 12:00* 
 
 Bla 
 
 Bla
 
 
-## Bayesian Nets: Saturday 14:00 - 16:00                                   
+**Bayesian Nets:** *Saturday 14:00 - 16:00*                                   
 
 [Legal Probabilism][LP]                                           
 
