@@ -40,15 +40,13 @@ as well as the current legislative policies and case-law on the topic.
 
 **Multiagent Systems:** *Saturday 10:00 - 12:00* 
 
-Bla 
-
-Bla
+|       Bla 
+|       Bla
 
 **Bayesian Nets:** *Saturday 14:00 - 16:00*                                   
 
-[Legal Probabilism][LP]                                           
-
-Bla bla
+|       [Legal Probabilism][LP]                                           
+|        Bla bla
 
 [LP]: https://plato.stanford.edu/entries/legal-probabilism/
 
