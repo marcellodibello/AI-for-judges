@@ -44,7 +44,7 @@ as well as the current legislative policies and case-law on the topic.
 |       Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
 |       Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
 
-There are several software tools available to draw Bayesian Networks. Below are links to the moist popular:
+There are several software tools available to draw Bayesian Networks. Below are links to the most popular:
 - [Genie/BayesianFusion](https://www.bayesfusion.com/)
 - [Bayesian](https://www.bayesia.com/)
 - [AgenaRisk](https://www.agenarisk.com/)
