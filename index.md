@@ -30,8 +30,27 @@ as well as the current legislative policies and case-law on the topic.
 
 ### Shedule and course materials
 
-#### Risk Assessment:  *Friday 17:00 - 19:00*                            
 
+#### Multiagent Systems: *Friday 17:00 - 19:00*  
+
+|       [Slides]()
+|       Bla
+
+#### Bayesian Nets: *Saturday 10:00 - 12:00* 
+
+
+|       [Slides]()
+|       Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
+|       Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
+|       Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
+
+[LP]: https://plato.stanford.edu/entries/legal-probabilism/
+[S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
+[C]: https://onlinelibrary.wiley.com/doi/abs/10.1111/phis.12209
+
+#### Risk Assessment:  *Saturday 14:00 - 16:00*     
+
+|       [Slides]()
 |       [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
 |       [PSA Scoring Manual: 2022 Edition][PSA]                           
 |       [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]     
@@ -41,16 +60,4 @@ as well as the current legislative policies and case-law on the topic.
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
 
-
-#### Multiagent Systems: *Saturday 10:00 - 12:00* 
-
-|       Bla 
-|       Bla
-
-#### Bayesian Nets: *Saturday 14:00 - 16:00*                                   
-
-|       [Legal Probabilism][LP]                                           
-|        Bla bla
-
-[LP]: https://plato.stanford.edu/entries/legal-probabilism/
 
