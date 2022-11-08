@@ -36,7 +36,7 @@ as well as the current legislative policies and case-law on the topic.
 |       [Slides]()
 |       Bla
 
-#### Bayesian Nets: *Saturday 10:00 - 12:00* 
+#### Bayesian Networks: *Saturday 10:00 - 12:00* 
 
 
 |       [Slides]()
