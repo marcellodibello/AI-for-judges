@@ -21,7 +21,7 @@ as well as the current legislative policies and case-law on the topic.
 
 ### Instructors
 
-[Giulia Lasagni][GL] - University of Blogna - *email*: giulia DOT lasagni6 AT unibo DOT it
+[Giulia Lasagni][GL] - University of Bologna - *email*: giulia DOT lasagni6 AT unibo DOT it
 
 [Marcello Di Bello][MDB] - Arizona State University - *email*: mdibello AT asu DOT com
 
@@ -43,6 +43,11 @@ as well as the current legislative policies and case-law on the topic.
 |       Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
 |       Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
 |       Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
+
+There are several software tools available to draw Bayesian Networks. Below are links to the moist popular:
+- [Genie/BayesianFusion](https://www.bayesfusion.com/)
+- [Bayesian](https://www.bayesia.com/)
+- [AgenaRisk](https://www.agenarisk.com/)
 
 [LP]: https://plato.stanford.edu/entries/legal-probabilism/
 [S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
