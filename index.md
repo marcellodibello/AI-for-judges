@@ -30,13 +30,18 @@ as well as the current legislative policies and case-law on the topic.
 
 ### Shedule and course materials
 
-#### Risk Assessment: *Friday 17:00 - 19:00*    
+#### Risk Assessment: *Friday Nov 11, 2022: 17:00 - 19:00*   
 
-|       [Slides]()
-|       [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
-|       [PSA Scoring Manual: 2022 Edition][PSA]                           
-|       [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]     
-|       Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
+The main course materials for this part of the course are:
+
+-  [Slides]() on Predictive Algorithms for Judges 
+-  Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
+
+For addition information:
+
+-  [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
+-  [PSA Scoring Manual: 2022 Edition][PSA]                           
+-  [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]            
 
 [LW]: https://www.scotusblog.com/wp-content/uploads/2017/05/16-6387-CVSG-Loomis-AC-Pet.pdf
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
@@ -44,7 +49,7 @@ as well as the current legislative policies and case-law on the topic.
 
 
 
-#### Multiagent Systems:  *Saturday 10:00 - 12:00*   
+#### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
 
 |       [Slides]()
 |       Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial intelligence applied to computer forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
@@ -56,7 +61,7 @@ as well as the current legislative policies and case-law on the topic.
 [Lasagni]: https://link.springer.com/book/9783031139512 
 
 
-#### Bayesian Networks: *Saturday 14:00 - 16:00* 
+#### Bayesian Networks: *Saturday Nov 12, 2022: 14:00 - 16:00* 
 
 The main course materials for this part of the course are:
 
