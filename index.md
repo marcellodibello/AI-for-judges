@@ -66,8 +66,8 @@ The main course materials for this part of the course are:
 
 For additional information about Bayesian networks, you may have a look at:
 
--      Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
--      Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
+- Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
+- Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
 
 [LP]: https://plato.stanford.edu/entries/legal-probabilism/
 [S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
