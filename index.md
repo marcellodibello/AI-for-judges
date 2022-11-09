@@ -58,20 +58,30 @@ as well as the current legislative policies and case-law on the topic.
 
 #### Bayesian Networks: *Saturday 14:00 - 16:00* 
 
+The main course materials for this part of the course are:
 
-|       [Slides]()
-|       Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
-|       Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
-|       Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
+- [Slides]()
+- [Handout]() on Bayes' theorem
+- Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
+
+For additional information about Bayesian networks, you may have a look at:
+
+-      Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
+-      Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
+
+[LP]: https://plato.stanford.edu/entries/legal-probabilism/
+[S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
+[C]: https://onlinelibrary.wiley.com/doi/abs/10.1111/phis.12209
 
 There are several software tools available to draw Bayesian Networks. Below are links to the most popular:
 - [Genie/BayesianFusion](https://www.bayesfusion.com/)
 - [Bayesian](https://www.bayesia.com/)
 - [AgenaRisk](https://www.agenarisk.com/)
 
-[LP]: https://plato.stanford.edu/entries/legal-probabilism/
-[S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
-[C]: https://onlinelibrary.wiley.com/doi/abs/10.1111/phis.12209
+A recent and very good book on Bayesian networks, with an emphasis on legal applications:
+
+- David Lagnado, [Explaining the Evidence](https://www.cambridge.org/core/books/explaining-the-evidence/75C56BD5E76D8C49F2B84A1E64137A1A), Cambridge University Press
+
 
 
 
