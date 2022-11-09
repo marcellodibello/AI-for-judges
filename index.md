@@ -60,7 +60,7 @@ as well as the current legislative policies and case-law on the topic.
 
 The main course materials for this part of the course are:
 
-- [Slides]()
+- [Slides]() on Bayesian Networks for Judges
 - [Handout]() on Bayes' theorem
 - Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
 
