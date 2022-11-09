@@ -51,10 +51,18 @@ For addition information:
 
 #### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
 
-|       [Slides]()
-|       Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial intelligence applied to computer forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
-|       Michael Wooldridge, An introduction to multiagent systems, 2nd edn. Wiley, 2009, select chapters 
-|       Giulia Lasagni, [AI-Powered Investigations: From Data Analysis to an Automated Approach Toward Investigative Uncertainty][Lasagni], in L Bachmaier Winter and S Ruggeri (eds), Investigating and Preventing Crime in the Digital Era. New Safeguards, New Rights, Springer, 2022 
+
+The main course materials for this part of the course are:
+
+-  [Slides]()
+
+-  Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial intelligence applied to computer forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
+
+-  Giulia Lasagni, [AI-Powered Investigations: From Data Analysis to an Automated Approach Toward Investigative Uncertainty][Lasagni], in L Bachmaier Winter and S Ruggeri (eds), Investigating and Preventing Crime in the Digital Era. New Safeguards, New Rights, Springer, 2022 
+
+For additional information:
+
+-  Michael Wooldridge, An introduction to multiagent systems, 2nd edn. Wiley, 2009, select chapters 
 
 
 [Hoelz]: https://dl.acm.org/doi/abs/10.1145/1529282.1529471 
