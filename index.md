@@ -74,7 +74,7 @@ For additional information:
 The main course materials for this part of the course are:
 
 - [Slides]() on Bayesian Networks for Judges
-- [Handout](https://www.marcellodibello.com/AI-for-judges/blob/main/BayesTheorem-handout.pdf) on Bayes' theorem
+- [Handout](https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf) on Bayes' theorem
 - Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
 - [Summary of Simonshaven ruling](https://www.marcellodibello.com/AI-for-judges/Case-Simonshaven.pdf) 
 
