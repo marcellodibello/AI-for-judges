@@ -47,7 +47,7 @@ For additional information:
 [LW]: https://www.scotusblog.com/wp-content/uploads/2017/05/16-6387-CVSG-Loomis-AC-Pet.pdf
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
-[PSAHandout]: https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf
+[PSAHandout]: https://www.marcellodibello.com/AI-for-judges/PSA.pdf
 
 
 #### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
