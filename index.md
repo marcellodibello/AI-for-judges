@@ -35,6 +35,7 @@ as well as the current legislative policies and case-law on the topic.
 The main course materials for this part of the course are:
 
 -  [Slides]() on Predictive Algorithms for Judges 
+-  [Handout][PSAHandout] on Public Safety Assessment (PSA)
 -  Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
 
 For additional information:
@@ -46,7 +47,7 @@ For additional information:
 [LW]: https://www.scotusblog.com/wp-content/uploads/2017/05/16-6387-CVSG-Loomis-AC-Pet.pdf
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
-
+[PSAHandout]: https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf
 
 
 #### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
@@ -74,7 +75,7 @@ For additional information:
 The main course materials for this part of the course are:
 
 - [Slides]() on Bayesian Networks for Judges
-- [Handout](https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf) on Bayes' theorem
+- [Handout][Bayes] on Bayes' theorem
 - Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
 - [Summary of Simonshaven ruling](https://www.marcellodibello.com/AI-for-judges/Case-Simonshaven.pdf) 
 
@@ -83,6 +84,7 @@ For additional information about Bayesian networks, you may have a look at:
 - Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
 - Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
 
+[Bayes]: https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf
 [LP]: https://plato.stanford.edu/entries/legal-probabilism/
 [S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
 [C]: https://onlinelibrary.wiley.com/doi/abs/10.1111/phis.12209
