@@ -37,7 +37,7 @@ The main course materials for this part of the course are:
 -  [Slides]() on Predictive Algorithms for Judges 
 -  Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
 
-For addition information:
+For additional information:
 
 -  [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
 -  [PSA Scoring Manual: 2022 Edition][PSA]                           
