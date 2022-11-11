@@ -34,9 +34,11 @@ as well as the current legislative policies and case-law on the topic.
 
 The main course materials for this part of the course are:
 
--  [Slides]() on Predictive Algorithms for Judges 
+-  [Slides][SlidesRisk] on Predictive Algorithms for Judges 
 -  [Handout][PSAHandout] on Public Safety Assessment (PSA)
 -  Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
+
+[SlidesRisk]: https://www.marcellodibello.com/UPDATED-PredictiveAlgo.pdf
 
 For additional information:
 
