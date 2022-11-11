@@ -44,13 +44,14 @@ For additional information:
 
 -  [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
 -  [PSA Scoring Manual: 2022 Edition][PSA]                           
--  [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]            
+-  [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]   
+-  [Compas data][data]          
 
 [LW]: https://www.scotusblog.com/wp-content/uploads/2017/05/16-6387-CVSG-Loomis-AC-Pet.pdf
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
 [PSAHandout]: https://www.marcellodibello.com/AI-for-judges/PSA.pdf
-
+[data]: https://www.marcellodibello.com/
 
 #### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
 
