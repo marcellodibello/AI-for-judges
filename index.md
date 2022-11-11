@@ -38,7 +38,7 @@ The main course materials for this part of the course are:
 -  [Handout][PSAHandout] on Public Safety Assessment (PSA)
 -  Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
 
-[SlidesRisk]: https://www.marcellodibello.com/UPDATED-PredictiveAlgo.pdf
+[SlidesRisk]: https://www.marcellodibello.com/AI-for-judges/UPDATED-PredictiveAlgo.pdf
 
 For additional information:
 
@@ -51,7 +51,7 @@ For additional information:
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
 [PSAHandout]: https://www.marcellodibello.com/AI-for-judges/PSA.pdf
-[data]: https://www.marcellodibello.com/compas-scores-two-years.csv
+[data]: https://www.marcellodibello.com/AI-for-judges/compas-scores-two-years.csv
 
 #### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
 
