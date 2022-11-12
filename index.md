@@ -26,7 +26,7 @@ as well as the current legislative policies and case-law on the topic.
 [Marcello Di Bello][MDB] - Arizona State University - *email*: mdibello AT asu DOT com
 
 [GL]: https://www.unibo.it/sitoweb/giulia.lasagni6/en
-[MDB]: www.marcellodibello.com
+[MDB]: https://www.marcellodibello.com
 
 ### Shedule and course materials
 
