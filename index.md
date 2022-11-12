@@ -62,18 +62,17 @@ The main course materials for this part of the course are:
 
 [SlidesMulti]: https://www.marcellodibello.com/AI-for-judges/Lasagni-Multi-Nov2022.pdf
 
-
 -  Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial intelligence applied to computer forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
 
--  Giulia Lasagni, [AI-Powered Investigations: From Data Analysis to an Automated Approach Toward Investigative Uncertainty][Lasagni], in L Bachmaier Winter and S Ruggeri (eds), Investigating and Preventing Crime in the Digital Era. New Safeguards, New Rights, Springer, 2022 
+-  Giulia Lasagni, [AI-Powered Investigations: From Data Analysis to an Automated Approach Toward Investigative Uncertainty][Lasagni], in L Bachmaier Winter and S Ruggeri (eds), Investigating and Preventing Crime in the Digital Era. New Safeguards, New Rights, Springer, 2022 - [pdf][LasagniPDF]
 
 For additional information:
 
 -  Michael Wooldridge, An introduction to multiagent systems, 2nd edn. Wiley, 2009, select chapters 
 
-
 [Hoelz]: https://dl.acm.org/doi/abs/10.1145/1529282.1529471 
 [Lasagni]: https://link.springer.com/book/9783031139512 
+[LasagniPDF]: https://www.marcellodibello.com/AI-for-judges/LasagniAI-Powered-Investigations.pdf
 
 
 #### Bayesian Networks: *Saturday Nov 12, 2022: 14:00 - 16:00* 
