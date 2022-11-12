@@ -58,7 +58,10 @@ For additional information:
 
 The main course materials for this part of the course are:
 
--  [Slides]()
+-  [Slides][SlidesMulti] 
+
+[SlidesMulti]: https://www.marcellodibello.com/AI-for-judges/Lasagni-Multi-Nov2022.pdf
+
 
 -  Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial intelligence applied to computer forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
 
