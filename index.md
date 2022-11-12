@@ -79,7 +79,7 @@ For additional information:
 
 The main course materials for this part of the course are:
 
-- [Slides]() on Bayesian Networks for Judges
+- [Slides][SlidesNets] on Bayesian Networks for Judges
 - [Handout][Bayes] on Bayes' theorem
 - Fenton and others, [Analyzing the Simonshaven Case Using Bayesian Networks][S]
 - [Summary of Simonshaven ruling](https://www.marcellodibello.com/AI-for-judges/Case-Simonshaven.pdf) 
@@ -89,6 +89,7 @@ For additional information about Bayesian networks, you may have a look at:
 - Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
 - Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
 
+[SlidesNets]: https://www.marcellodibello.com/AI-for-judges/BayesNetsAIJudges.pdf
 [Bayes]: https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf
 [LP]: https://plato.stanford.edu/entries/legal-probabilism/
 [S]: https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417
