@@ -59,8 +59,8 @@ For additional information:
 
 The main course materials for this part of the course are:
 
--  [Slides][LLM]
--  [Slides][CrossJustice]
+-  [Slides - Chat- GPT][LLM]
+-  [Slides - CrossJustice Project][CrossJustice]
 
 [LLM]: https://www.marcellodibello.com/AI-for-judges/ChatGPT-Judges.pdf
 [CrossJustice]: https://www.marcellodibello.com/AI-for-judges/cross-justice-facilex.pdf
