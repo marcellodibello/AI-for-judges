@@ -67,7 +67,7 @@ For additional information:
 
 - [What Is Chat-GPT Doing and Why Does it Work?][GPT]
 
-[GPT]: [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/]
+[GPT]: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
 
 #### Multiagent Systems:  *Saturday Nov 11, 2023: 11:00 - 12:15*   
