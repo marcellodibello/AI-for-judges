@@ -11,7 +11,7 @@ We will examine four topics:
 
   1. Machine learning tools for risk assessment applied to decisions about bail, preventive detention and sentencing;
 
-  2. Large language models to assist in judicial interpretation and decision-making about matters of law; and 
+  2. Large language models to assist in judicial interpretation and decision-making about matters of law;  
 
   3. Multiagent systems for deciding about the relevance and admissibility of evidence; and
 
@@ -38,7 +38,7 @@ The main course materials for this part of the course are:
 
 -  [Slides][SlidesRisk] on Predictive Algorithms for Judges 
 -  [Handout][PSAHandout] on Public Safety Assessment (PSA)
--  Serena Quattrocolo, Artificial intelligence, computational modelling and criminal proceedings. A framework for a European legal discussion, Springer, 2020 
+-  Serena Quattrocolo, Artificial intelligence, Computational Modelling and Criminal Proceedings. A framework for a European Legal Discussion, Springer, 2020 
 
 [SlidesRisk]: https://www.marcellodibello.com/AI-for-judges/UPDATED-PredictiveAlgo.pdf
 
@@ -62,7 +62,13 @@ The main course materials for this part of the course are:
 -  [Slides][LLM]
 
 [LLM]: https://www.marcellodibello.com/AI-for-judges/.pdf
-  
+
+For additional information:
+
+- [What Is Chat-GPT Doing and Why Does it Work?][GPT]
+
+[GPT]: [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/]
+
 
 #### Multiagent Systems:  *Saturday Nov 11, 2023: 11:00 - 12:15*   
 
@@ -73,7 +79,7 @@ The main course materials for this part of the course are:
 
 [SlidesMulti]: https://www.marcellodibello.com/AI-for-judges/Lasagni-Multi-Nov2022.pdf
 
--  Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial intelligence applied to computer forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
+-  Hoelz BWP, Ghedini Ralha C, Geeverghese R,  [Artificial Intelligence Applied to Computer Forensics][Hoelz], in Proceedings of the 2009 ACM symposium on applied computing, pp 883–888, 2009 
 
 -  Giulia Lasagni, [AI-Powered Investigations: From Data Analysis to an Automated Approach Toward Investigative Uncertainty][Lasagni], in L Bachmaier Winter and S Ruggeri (eds), Investigating and Preventing Crime in the Digital Era. New Safeguards, New Rights, Springer, 2022 - [pdf][LasagniPDF]
 
@@ -98,7 +104,7 @@ The main course materials for this part of the course are:
 For additional information about Bayesian networks, you may have a look at:
 
 - Urbaniak and Di Bello, [Legal Probabilism][LP]                                           
-- Di Bello, [A probabilistic analysis of cross-examination using Bayesian networks][C]
+- Di Bello, [A Probabilistic Analysis of Cross-examination Using Bayesian Networks][C]
 
 [SlidesNets]: https://www.marcellodibello.com/AI-for-judges/BayesNetsAIJudges.pdf
 [Bayes]: https://www.marcellodibello.com/AI-for-judges/BayesTheorem-handout.pdf
