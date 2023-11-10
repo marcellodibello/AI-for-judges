@@ -7,16 +7,18 @@
 
 This module examines how tools from AI can help judges make decisions.  Judges make decisions at several junctures of 
 the justice system, pre- and post-trial. Their decisions concern matters of fact as well as matters of law. 
-We will focus on decisions about matters of fact and examine three topics:
+We will examine four topics:
 
   1. Machine learning tools for risk assessment applied to decisions about bail, preventive detention and sentencing;
 
-  2. Multiagent systems for deciding about the relevance and admissibility of evidence; and
+  2. Large language models to assist in judicial interpretation and decision-making about matters of law; and 
 
-  3. Argumentation structures and Bayesian networks for representing complex bodies of evidence.
+  3. Multiagent systems for deciding about the relevance and admissibility of evidence; and
+
+  4. Argumentation structures and Bayesian networks for representing complex bodies of evidence.
 
 Transversal to these topics, the module will also examine the different ways in which the judiciary 
-can rely on findings about matters of fact that are entirely or partially based on automated elements, 
+can rely on findings about matters of fact and matters of law that are entirely or partially based on automated elements, 
 as well as the current legislative policies and case-law on the topic.
 
 ### Instructors
@@ -30,7 +32,7 @@ as well as the current legislative policies and case-law on the topic.
 
 ### Shedule and course materials
 
-#### Risk Assessment: *Friday Nov 11, 2022: 17:00 - 19:00*   
+#### Risk Assessment: *Friday Nov 10, 2023: 18:00 - 20:00*   
 
 The main course materials for this part of the course are:
 
@@ -53,7 +55,16 @@ For additional information:
 [PSAHandout]: https://www.marcellodibello.com/AI-for-judges/PSA.pdf
 [data]: https://www.marcellodibello.com/AI-for-judges/compas-scores-two-years.csv
 
-#### Multiagent Systems:  *Saturday Nov 12, 2022: 10:00 - 12:00*   
+#### Large Language Models:  *Saturday Nov 11, 2023: 9:30 - 10:45*   
+
+The main course materials for this part of the course are:
+
+-  [Slides][LLM]
+
+[LLM]: https://www.marcellodibello.com/AI-for-judges/.pdf
+  
+
+#### Multiagent Systems:  *Saturday Nov 11, 2023: 11:00 - 12:15*   
 
 
 The main course materials for this part of the course are:
@@ -75,7 +86,7 @@ For additional information:
 [LasagniPDF]: https://www.marcellodibello.com/AI-for-judges/LasagniAI-Powered-Investigations.pdf
 
 
-#### Bayesian Networks: *Saturday Nov 12, 2022: 14:00 - 16:00* 
+#### Bayesian Networks: *Saturday Nov 11, 2023: 12:30 - 13:30* 
 
 The main course materials for this part of the course are:
 
