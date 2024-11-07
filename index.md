@@ -57,7 +57,7 @@ For additional information:
 [data]: https://www.marcellodibello.com/AI-for-judges/compas-scores-two-years.csv
 [HumanMachine]: https://www.nber.org/papers/w23180
 
-#### Large Language Models:  *Saturday Nov 9, 2023: 9:30 - 10:45*   
+#### Large Language Models:  *Saturday Nov 9, 2024: 9:30 - 10:45*   
 
 The main course materials for this part of the course are:
 
@@ -71,8 +71,10 @@ The main course materials for this part of the course are:
 For additional information:
 
 - [What Is Chat-GPT Doing and Why Does it Work?][GPT]
+- [Legal Bench][LegalBench]
 
 [GPT]: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+[LegalBench]: https://hazyresearch.stanford.edu/legalbench/
 
 
 #### Multiagent Systems:  *Saturday Nov 9, 2023: 11:00 - 12:15*   
@@ -97,7 +99,7 @@ For additional information:
 [LasagniPDF]: https://www.marcellodibello.com/AI-for-judges/LasagniAI-Powered-Investigations.pdf
 
 
-#### Bayesian Networks: *Saturday Nov 11, 2023: 12:30 - 13:30* 
+#### Bayesian Networks: *Saturday Nov 9, 2024: 12:30 - 13:30* 
 
 The main course materials for this part of the course are:
 
