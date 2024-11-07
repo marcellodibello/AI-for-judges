@@ -32,7 +32,7 @@ as well as the current legislative policies and case-law on the topic.
 
 ### Shedule and course materials
 
-#### Risk Assessment: *Friday Nov 10, 2023: 18:00 - 20:00*   
+#### Risk Assessment: *Friday Nov 8, 2024: 18:00 - 20:00*   
 
 The main course materials for this part of the course are:
 
@@ -47,15 +47,17 @@ For additional information:
 -  [Loomis v. Wisconsin: Brief amicus curiae][LW]                    
 -  [PSA Scoring Manual: 2022 Edition][PSA]                           
 -  [Practitioner’s Guide to COMPAS Core, 2019][COMPAS]   
--  Compas scores two years: [data][data]          
+-  Compas scores two years: [data][data]
+-  Kleinberg et al (2018), [Human Decisions and Machine Predictions][HumanMachine]
 
 [LW]: https://www.scotusblog.com/wp-content/uploads/2017/05/16-6387-CVSG-Loomis-AC-Pet.pdf
 [PSA]: https://advancingpretrial.org/improving-pretrial-justice/appr-resources/psa-scoring-manual-2022-edition/
 [COMPAS]: https://www.equivant.com/practitioners-guide-to-compas-core/
 [PSAHandout]: https://www.marcellodibello.com/AI-for-judges/PSA.pdf
 [data]: https://www.marcellodibello.com/AI-for-judges/compas-scores-two-years.csv
+[HumanMachine]: https://www.nber.org/papers/w23180
 
-#### Large Language Models:  *Saturday Nov 11, 2023: 9:30 - 10:45*   
+#### Large Language Models:  *Saturday Nov 9, 2023: 9:30 - 10:45*   
 
 The main course materials for this part of the course are:
 
@@ -73,7 +75,7 @@ For additional information:
 [GPT]: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
 
-#### Multiagent Systems:  *Saturday Nov 11, 2023: 11:00 - 12:15*   
+#### Multiagent Systems:  *Saturday Nov 9, 2023: 11:00 - 12:15*   
 
 
 The main course materials for this part of the course are:
