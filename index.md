@@ -77,7 +77,7 @@ For additional information:
 [LegalBench]: https://hazyresearch.stanford.edu/legalbench/
 
 
-#### Multiagent Systems:  *Saturday Nov 9, 2023: 11:00 - 12:15*   
+#### Multiagent Systems:  *Saturday Nov 9, 2024: 11:00 - 12:15*   
 
 
 The main course materials for this part of the course are:
