@@ -129,5 +129,10 @@ A recent and very good book on Bayesian networks, with an emphasis on legal appl
 - David Lagnado, [Explaining the Evidence](https://www.cambridge.org/core/books/explaining-the-evidence/75C56BD5E76D8C49F2B84A1E64137A1A), Cambridge University Press
 
 
+#### Exercises and Practice: *Monday Nov 11, 2024: 9:00 - 12:00*   
 
+- [Slides][SlidesPractice] with practice, summaries and exercises
+- [Slides][SlidesAiAct] on the AI Act
 
+[SlidesPractice]: https://www.marcellodibello.com/AI-for-judges/practice.pdf
+[SlidesAiAct]: https://www.marcellodibello.com/AI-for-judges/AI-ACT.pdf
